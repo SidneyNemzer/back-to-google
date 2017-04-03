@@ -1,6 +1,6 @@
 {
   "name": "Back To Search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Quickly get back to your google search",
   "icons": {
@@ -18,7 +18,7 @@
   "commands": {
     "back-to-google": {
       "suggested_key": {
-        "default": "Ctrl+Left"
+        "default": "Ctrl+Shift+Left"
       },
       "description": "Go to the last google search in a tab's history"
     }
