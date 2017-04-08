@@ -18,7 +18,7 @@
   "commands": {
     "back-to-google": {
       "suggested_key": {
-        "default": "Ctrl+Left"
+        "default": "Alt+Shift+Left"
       },
       "description": "Go to the last google search in a tab's history"
     }
